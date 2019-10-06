@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f67d2dbf-c25c-429b-8e5a-c5f673d8eb4d" name="Default Changelist" comment="06.10.19 4">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <list id="53f215ed-2947-45cd-8cb3-9c5ad93e840f" name="Revert &quot;06.10.19 3&quot;" comment="Revert &quot;06.10.19 3&quot;&#10;&#10;This reverts commit 3039042e">
+      <change afterPath="$PROJECT_DIR$/../Coursework/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coursework/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coursework/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coursework/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coursework/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coursework/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coursework/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coursework/out/production/Сoursework/Visual_model/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coursework/out/production/Сoursework/Visual_model/MainWindow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coursework/src/Visual_model/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coursework/src/Visual_model/MainWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coursework/Сoursework.iml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Alexandr &lt;humeruzz0@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="Humeruzz" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="Java" />
+  </component>
+  <component name="ProjectId" id="1QxhD2lSV8hLachttmWFpEMIdwK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Prak5.Main" />
+      <module name="Prak" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f67d2dbf-c25c-429b-8e5a-c5f673d8eb4d" name="Default Changelist" comment="" />
+      <created>1568718031537</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568718031537</updated>
+      <workItem from="1568718032888" duration="839000" />
+      <workItem from="1568873718819" duration="31000" />
+      <workItem from="1568873839608" duration="203000" />
+      <workItem from="1569938547552" duration="11000" />
+      <workItem from="1569938580392" duration="2763000" />
+      <workItem from="1570104038851" duration="31000" />
+      <workItem from="1570371766567" duration="10000" />
+      <workItem from="1570372407909" duration="1335000" />
+      <workItem from="1570373796747" duration="646000" />
+    </task>
+    <task id="LOCAL-00001" summary="06.10.19 4">
+      <created>1570372543362</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1570372543362</updated>
+    </task>
+    <task id="LOCAL-00002" summary="06.10.19 5">
+      <created>1570373265657</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1570373265657</updated>
+    </task>
+    <task id="LOCAL-00003" summary="06.10.19 4">
+      <created>1570373492665</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1570373492665</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="06.10.19 5" />
+    <MESSAGE value="06.10.19 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="06.10.19 4" />
+  </component>
+</project>
